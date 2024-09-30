@@ -1,0 +1,62 @@
+[
+    {
+        "movie_name": "Vikram",
+        "movie_image": "https://wallpapercave.com/wp/wp11157463.jpg",
+        "release_date": 2022,
+        "match_percent": "85%"
+    },
+    {
+        "movie_name": "Love Today",
+        "movie_image": "https://www.filmibeat.com/img/popcorn/movie_posters/lovetoday-20220705120722-21113.jpg",
+        "release_date": 2022,
+        "match_percent": "90%"
+    },
+    {
+        "movie_name": "Varisu",
+        "movie_image": "https://www.filmibeat.com/fanimg/movie/20132/varisu-thalapathy-66-photos-images-80628.jpg",
+        "release_date": 2023,
+        "match_percent": "95%"
+    },
+    {
+        "movie_name": "Thunivu",
+        "movie_image": "https://igimages.gumlet.io/tamil/gallery/movies/thunivu2022/thunivu_second_look2292022m1.jpg?w=376&dpr=2.6",
+        "release_date": 2023,
+        "match_percent": "80%"
+    },
+    {
+        "movie_name": "Doctor",
+        "movie_image": "https://m.media-amazon.com/images/M/MV5BM2I0OGFlMjQtZDlkMy00YzMzLWJmZGUtNzc3ZDc4YTAyOGM3XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V1_FMjpg_UX1000_.jpg",
+        "release_date": 2021,
+        "match_percent": "80%"
+    },
+    {
+        "movie_name": "Prince",
+        "movie_image": "https://s3.ap-south-1.amazonaws.com/media.filmyfocus.com/wp-content/uploads/2022/10/Prince-Movie.jpg",
+        "release_date": 2022,
+        "match_percent": "50%"
+    },
+    {
+        "movie_name": "Maanadu",
+        "movie_image": "https://wallpaperaccess.com/full/7625880.jpg",
+        "release_date": 2021,
+        "match_percent": "75%"
+    },
+    {
+        "movie_name": "VTK",
+        "movie_image": "https://pbs.twimg.com/media/FbqYVT8acAIQku3?format=jpg&name=900x900",
+        "release_date": 2022,
+        "match_percent": "70%"
+    },
+    {
+        "movie_name": "Thuppaki",
+        "movie_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdAjttqR1l7hwiIysXb4ouSh5KW-1z9BtpKaPEPJSA&s",
+        "release_date": 2014,
+        "match_percent": "90%"
+    },
+    {
+        "movie_name": "Thiruchitrambalam",
+        "movie_image": "https://m.media-amazon.com/images/M/MV5BMjY5MjhhY2ItY2JmNy00MDg4LTg4MmYtYWNjOTM4ODcwMmMzXkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_.jpg",
+        "release_date": 2022,
+        "match_percent": "90%"
+    }
+]
